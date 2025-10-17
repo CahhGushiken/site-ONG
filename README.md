@@ -27,9 +27,5 @@ O site tem como objetivo apresentar a ONG, divulgar seus projetos e incentivar o
 
 Promover a **conscientização sobre a posse responsável de animais**, incentivar a **adoção de cães resgatados** e facilitar a **conexão entre voluntários e a ONG SuperaCão**.
 
----
 
-## 🚀 Como Visualizar o Projeto
-
-Clone o repositório e abra o arquivo `index.html` diretamente no navegador:
 
