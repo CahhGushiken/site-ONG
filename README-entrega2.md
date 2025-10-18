@@ -47,16 +47,5 @@ superacao/
     └── images/
 ```
 
----
-
-## 🚀 Como visualizar
-1. Abrir `index.html` no navegador.
-2. Ou publicar o projeto no **GitHub Pages**:
-   - Vá em *Settings → Pages*;
-   - Escolha a branch `main` e a pasta `/ (root)`;
-   - O GitHub gerará um link público para entrega.
-
----
-
 ## 📄 Autor
 Projeto desenvolvido para a **Entrega 2 — Aplicação de CSS3**.
