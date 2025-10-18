@@ -25,6 +25,10 @@ O site tem como objetivo apresentar a ONG, divulgar seus projetos e incentivar o
 
 ---
 
+## 📄 Autor
+Projeto desenvolvido para a **Entrega 1 — Aplicação de HTML5**.
+
+
 ## 💡 Objetivo do Projeto
 
 Promover a **conscientização sobre a posse responsável de animais**, incentivar a **adoção de cães resgatados** e facilitar a **conexão entre voluntários e a ONG SuperaCão**.
