@@ -21,7 +21,6 @@ Transformar a estrutura HTML da Entrega 1 em uma interface visual moderna e resp
 ### Navegação Interativa
 - Menu principal com flexbox.
 - Botões e links com estados visuais (hover, focus).
-- Estrutura preparada para menu hambúrguer (JS opcional).
 
 ### Componentes de Interface
 - **Cards responsivos** para os projetos.
