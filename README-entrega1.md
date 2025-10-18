@@ -1,3 +1,5 @@
+# Entrega 1 — HTML5 Avançado (SuperaCão)
+
 # 🐾 SuperaCão — ONG de Resgate e Adoção de Cães
 
 **SuperaCão** é um projeto desenvolvido para uma organização sem fins lucrativos dedicada ao **resgate, reabilitação e adoção responsável de cães abandonados**.  
